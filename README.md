@@ -14,11 +14,12 @@ For this purpose, a quite extensive EDA was made in Python, its findings applied
 The project is based on data from three seasonal products kindly provided by Meteolytix:
 .
 
-# Content / Repro organization
+# Repro organization
 
 + [```EDA```](https://github.com/sssjggg/Capstone_seasonal_ts_/blob/main/EDA.ipynb): Analysis and visualisation of data and their characteristics, including: Stationarity; determination of seasonalities
 + [```R-Modelle```](https://github.com/sssjggg/Capstone_seasonal_ts_/blob/main/R_models.ipynb): Seasonal naïve, ARIMA, TBATS; with ts, msts objects and dummy regressors.
 + [```Prophet```](https://github.com/sssjggg/Capstone_seasonal_ts_/blob/main/Prophet.ipynb): Standard model and model with multiple saiosonalities
++ [```Presentation```](https://github.com/sssjggg/Capstone_seasonal_ts/blob/main/Presentation.pdf)
 
 # Environment set up
 
